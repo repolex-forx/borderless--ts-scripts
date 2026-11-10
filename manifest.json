@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "borderless",
+  "repo": "ts-scripts",
+  "versions": [
+    {
+      "commit": "35dceb729b3fabbc1e4b7bc2f2a2d995c75e7bd7",
+      "parsed_at": "2026-11-10T07:42:07.256599+00:00",
+      "filetree": "filetree/35dceb729b3fabbc1e4b7bc2f2a2d995c75e7bd7.nq.gz",
+      "blobs": [
+        "blob/39538ba364553eae32233173150c3f85f3b425cd.nq.gz",
+        "blob/dc6a075bc8737938bdfb85c44b95f7288c520c3b.nq.gz",
+        "blob/b8e7a2ee89ae706a622c406f9ec2721b6d28c4f7.nq.gz",
+        "blob/4830dedd443a864f7d747feb460e2eebfed3402b.nq.gz",
+        "blob/323c222c6a2a85284e32421741a0c8d58089580f.nq.gz",
+        "blob/186fea85837966698cae558f39d7a90f4f42e47a.nq.gz",
+        "blob/8e84accdea7314d466d82e9b499ad5975c03e46d.nq.gz",
+        "blob/6ba103e82110f469e1f8e8a52d2919608477e58d.nq.gz",
+        "blob/4aa608f07acdb08e4864860e0e520317cf1f5008.nq.gz",
+        "blob/1e3944708655fcfe4638683e9adff100c2d001cb.nq.gz",
+        "blob/6dfb001be290cf4ad76f888a331118d5ab9a7606.nq.gz",
+        "blob/31354ec1389994b5f6708c7d915fdcc6bb76ba6e.nq.gz",
+        "blob/4a35c66f173be4cfe06c12c1fdbf90650291fb3c.nq.gz",
+        "blob/7f20ff867ab19eda5879a610737fe91b8c8b2b06.nq.gz",
+        "blob/9e5edd685469929d28dd5034094cc96053cd4be8.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
