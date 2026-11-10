@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/borderless/ts-scripts/commit/35dceb729b3fabbc1e4b7bc2f2a2d995c75e7bd7",
       "git:hexsha": "35dceb729b3fabbc1e4b7bc2f2a2d995c75e7bd7",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T07:44:06.615202+00:00"
     },
     {
       "@id": "https://repolex.ai/r/borderless/ts-scripts/commit/992c8a0ad0a890bc70e8e2afa5cd4c257fd2ea2b",
